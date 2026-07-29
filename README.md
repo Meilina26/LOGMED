@@ -164,14 +164,4 @@ http://127.0.0.1:8000
 
 ## 👩‍💻 Developer
 
-**Meilina**
-
-Politeknik Negeri Cilacap
-
-Program Studi D4 Teknik Informatika
-
----
-
-## 📄 License
-
-Project ini dibuat untuk keperluan pembelajaran dan tugas akademik.
+**Meilina Fajrianu Lativa**
